@@ -11,8 +11,13 @@ Senior Frontend Engineer focused on **frontend architecture, data visualization 
 React · TypeScript · Next.js · Redux Toolkit · Material UI · Highcharts · Vite · Jest / RTL · Node.js
 
 ### Featured
-- **[Project name]** — Next.js + AI app with tests and accessibility in mind
-
+- **Metis** — Patient and nutrition-plan management app for nutritionists, built with a practising nutritionist
+  `Next.js 16` `TypeScript` `Prisma` `PostgreSQL` `TipTap` `Vitest` `Playwright` · 🔒 Private repo · Demo on request
+- **Dashboard + Testing** — The official Next.js dashboard app, extended with a full testing suite and CI
+  `Next.js` `TypeScript` `Vitest` `React Testing Library` `Playwright` `GitHub Actions` · 🚧 Work in progress
+- **Iris** — Comment-to-DM automation for Instagram: pick a post, set a keyword, and anyone who comments it gets an automatic message
+  `Next.js` `TypeScript` `Tailwind` `Meta Graph API` · 🚧 Work in progress
+  
 📫 [LinkedIn](https://linkedin.com/in/carlosmateoc/) · hello@carlosmateo.net
 
 ### More About me
@@ -20,5 +25,4 @@ React · TypeScript · Next.js · Redux Toolkit · Material UI · Highcharts · 
 - 🌱 Currently learning AI engineering: LLMs, RAG and agents
 - 👯 Open to collaborate on frontend architecture and animation-rich websites (think Awwwards)
 - 💬 Ask me about personal finances, index investing as a developer, Anime 🇯🇵
-- 📫 Reach me at hello@carlosmateo.net
-- ⚡️ Fun fact: I started with jQuery and table layouts; today I teach AI agents to read UIs
+- ⚡️ Fun fact: I started with jQuery and table layouts; today I teach AI agents to read UIs  
