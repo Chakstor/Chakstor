@@ -21,8 +21,8 @@ React · TypeScript · Next.js · Redux Toolkit · Material UI · Highcharts · 
 📫 [LinkedIn](https://linkedin.com/in/carlosmateoc/) · hello@carlosmateo.net
 
 ### More About me
-- 🔭 Currently building a web app that helps nutritionists manage their patients
-- 🌱 Currently learning AI engineering: LLMs, RAG and agents
-- 👯 Open to collaborate on frontend architecture and animation-rich websites (think Awwwards)
-- 💬 Ask me about personal finances, index investing as a developer, Anime 🇯🇵
-- ⚡️ Fun fact: I started with jQuery and table layouts; today I teach AI agents to read UIs  
+- 🔭 **Currently building** a web app that helps nutritionists manage their patients
+- 🌱 **Currently learning** AI engineering: LLMs, RAG and agents
+- 👯 **Open to collaborate** on frontend architecture and animation-rich websites (think Awwwards)
+- 💬 **Ask me about** personal finances, index investing as a developer, Anime 🇯🇵
+- ⚡️ **Fun fact** I started with jQuery and table layouts; today I teach AI agents to read UIs  
